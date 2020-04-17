@@ -3,6 +3,7 @@
 /.idea/
 /.settings/
 /.checkstyle
+/java8-patterns.log
 /target/
 /bin/
 /build/
