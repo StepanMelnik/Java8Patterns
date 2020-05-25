@@ -78,4 +78,10 @@ Java8 template method:
 > And tested by src\test\java\com\sme\java8\patterns\behavioral\templatemethod\J8PersonHandlerTest.java.
 
 
+## Build
 
+### Maven
+> mvn clean install
+
+### Gradle
+> gradle --console verbose --rerun-tasks build

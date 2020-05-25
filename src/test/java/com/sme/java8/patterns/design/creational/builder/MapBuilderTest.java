@@ -7,8 +7,6 @@ import java.util.Map;
 
 import org.junit.Test;
 
-import com.sme.java8.patterns.design.creational.builder.MapBuilder;
-
 /**
  * Unit tests of {@link MapBuilder}.
  */

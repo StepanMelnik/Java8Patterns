@@ -63,7 +63,7 @@ public class MapBuilder<K, V>
     }
 
     /**
-     * Builds the {@link this#map}.
+     * Builds the {@link Map}.
      *
      * @return Returns the built {@link Map}.
      */
@@ -73,7 +73,7 @@ public class MapBuilder<K, V>
     }
 
     /**
-     * Builds the immutable {@link this#map}.
+     * Builds the immutable {@link Map}.
      *
      * @return Returns the built immutable {@link Map}.
      */

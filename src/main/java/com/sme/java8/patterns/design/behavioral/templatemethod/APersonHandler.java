@@ -34,7 +34,8 @@ public abstract class APersonHandler
     /**
      * Inner handling by concrete implementation.
      * 
-     * @param person The given person to be handled.
+     * @param person The given person to be handled;
+     * @return Returns if {@link Person} is handled by inner implementation otherwise false.
      */
     protected abstract boolean innerHandle(Person person);
 }

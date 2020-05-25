@@ -30,7 +30,7 @@ public class ListBuilder<T>
      * Add a given object to the list.
      * 
      * @param obj The given object to add to the list;
-     * @return Returns {@link ListBuilderTest} instance.
+     * @return Returns {@link ListBuilder} instance.
      */
     public ListBuilder<T> add(T obj)
     {
@@ -42,7 +42,7 @@ public class ListBuilder<T>
      * Add a collection to the list.
      * 
      * @param items The collection to add to the list;
-     * @return Returns {@link ListBuilderTest} instance.
+     * @return Returns {@link ListBuilder} instance.
      */
     public ListBuilder<T> addAll(Collection<? extends T> items)
     {
@@ -54,7 +54,7 @@ public class ListBuilder<T>
      * Add a stream to the list.
      * 
      * @param items The stream to add to the list;
-     * @return Returns {@link ListBuilderTest} instance.
+     * @return Returns {@link ListBuilder} instance.
      */
     public ListBuilder<T> addAll(Stream<? extends T> items)
     {
@@ -62,9 +62,9 @@ public class ListBuilder<T>
     }
 
     /**
-     * Builds the {@link this#list}.
+     * Builds the {@link List}.
      *
-     * @return Returns the built {@link this#list}.
+     * @return Returns the {@link List}.
      */
     public List<T> build()
     {

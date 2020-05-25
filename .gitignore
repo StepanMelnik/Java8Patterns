@@ -3,6 +3,8 @@
 /.idea/
 /.settings/
 /.checkstyle
+/.gradle
+/gradle
 /java8-patterns.log
 /target/
 /bin/
