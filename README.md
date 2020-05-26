@@ -80,6 +80,8 @@ Java8 template method:
 
 ## Build
 
+Clone and install <a href="https://github.com/StepanMelnik/Parent.git">Parent</a> project before building.
+
 ### Maven
 > mvn clean install
 

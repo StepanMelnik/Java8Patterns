@@ -4,8 +4,6 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.sme.java8.patterns.design.creational.builder.AddressBuilder;
-import com.sme.java8.patterns.design.creational.builder.PersonBuilder;
 import com.sme.java8.patterns.model.Person;
 import com.sme.java8.patterns.td.PersonTD;
 
