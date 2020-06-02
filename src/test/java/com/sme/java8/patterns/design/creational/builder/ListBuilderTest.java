@@ -7,8 +7,6 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.sme.java8.patterns.design.creational.builder.ListBuilder;
-
 /**
  * Unit tests of {@link LinkBuilder}.
  */
