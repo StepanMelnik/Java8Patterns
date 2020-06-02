@@ -80,8 +80,13 @@ Java8 template method:
 
 ## Build
 
+Clone and install <a href="https://github.com/StepanMelnik/Parent.git">Parent</a> project before building.
+
 ### Maven
 > mvn clean install
 
 ### Gradle
 > gradle --console verbose --rerun-tasks build
+
+### Docker
+Check Header in the Dockerfile how to create an image of the project.

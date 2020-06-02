@@ -5,7 +5,6 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-import com.sme.java8.patterns.design.creational.factory.ParserFactory;
 import com.sme.java8.patterns.parser.DocParser;
 import com.sme.java8.patterns.parser.PdfParser;
 import com.sme.java8.patterns.parser.TextParser;
